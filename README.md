@@ -123,10 +123,10 @@ The original line should be something like this:
 `loadPlugins_list macro,profiles,breakTime,raiseStat,raiseSkill,map,reconnect,eventMacro,item_weight_recorder,xconf`
 
 Adding bus pluging should be something like this:
-`loadPlugins_list macro,profiles,breakTime,raiseStat,raiseSkill,map,reconnect,eventMacro,item_weight_recorder,xconf,busCommands.pl`
+`loadPlugins_list macro,profiles,breakTime,raiseStat,raiseSkill,map,reconnect,eventMacro,item_weight_recorder,xconf,busCommands.`
 
-Deppending on what pluging you want to use, the main plugins are:
+The main bus plugins supported by Openkore
   - busCommands
   - busFollow
   - busParty
-  
+ 
